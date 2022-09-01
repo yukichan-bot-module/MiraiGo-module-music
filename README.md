@@ -4,6 +4,10 @@ ID: `com.aimerneige.music`
 
 Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
 
+## 鸣谢
+
+本项目的调用接口参考了 [kcunitary/nonebot-simplemusic](https://github.com/kcunitary/nonebot-simplemusic)
+
 ## 功能
 
 - 在群聊接受到「点歌 歌曲名」时查找网易云音乐的 API 并发送网易云歌曲分享卡片消息。
